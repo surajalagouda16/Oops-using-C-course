@@ -33,7 +33,7 @@ The programs are organized into topic-wise folders to make learning, practice, a
 | Field | Details |
 |---|---|
 | Name | Suraj R Alagouda |
-| USN  | 01FE23BEC286 |
+| USN  | 01FE23BEC287 |
 | Section | E |
 | Roll.no | 553 |
 | Semester | 7th |
