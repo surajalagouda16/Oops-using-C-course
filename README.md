@@ -17,6 +17,8 @@ The programs are organized into topic-wise folders to make learning, practice, a
 | 4 | Static Members |
 | 5 | Friend Functions and Classes |
 | 6 | Inheritance |
+| 7 | Polymorphism |
+| 8 | Exception Handling|
 
 ---
 
